@@ -11,6 +11,6 @@
 
 ## Contact Me
 
-<a href="https://www.linkedin.com/in/joshkomonen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josh%20Komonen-blue"></a>
+<a href="https://www.linkedin.com/in/joshuakomonen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josh%20Komonen-blue"></a>
 
 </div>
