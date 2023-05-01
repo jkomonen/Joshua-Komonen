@@ -10,7 +10,7 @@
 <div align="center">
 
   <h1>My Projects</h1>
-  <a href="https://social-strangers.web.app">
+  <a href="https://social-strangers.web.app"></a>
 
 </div>
 
