@@ -9,8 +9,9 @@
 
 <div align="center">
 
-  <h1>My Projects</h1>
-  <a href="https://social-strangers.web.app">Social Strangers</a>
+## Contact Me
+
+<a href="https://www.linkedin.com/in/joshuakomonen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joshua%20Komonen-blue"></a>
 
 </div>
 
@@ -18,8 +19,7 @@
 
 <div align="center">
 
-## Contact Me
-
-<a href="https://www.linkedin.com/in/joshuakomonen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joshua%20Komonen-blue"></a>
+  <h1>My Projects</h1>
+  <a href="https://social-strangers.web.app">Social Strangers</a>
 
 </div>
