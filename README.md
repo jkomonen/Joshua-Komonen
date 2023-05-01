@@ -19,10 +19,10 @@
 
 <div align="center">
 
-  <h1>My Projects</h1>
-  <a href="https://animal-image-generator.netlify.app">Animal Image Generator</a>
-  <a href="https://joshkomonen.ml/">Portfolio Website</a>
-  <a href="https://cryptocurrency-portfolio-tracker.onrender.com/">Cryptocurrency Portfolio Tracker</a>
-  <a href="https://social-strangers.web.app">Social Strangers</a>
+  ## My Projects
+  <a href="https://animal-image-generator.netlify.app">Animal Image Generator</a><br>
+  <a href="https://joshkomonen.ml/">Portfolio Website</a><br>
+  <a href="https://cryptocurrency-portfolio-tracker.onrender.com/">Cryptocurrency Portfolio Tracker</a><br>
+  <a href="https://social-strangers.web.app">Social Strangers</a><br>
 
 </div>
