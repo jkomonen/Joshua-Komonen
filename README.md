@@ -7,7 +7,7 @@
 
 - 💻 I’m currently a Teaching Assistant for Object Oriented Programming at the University of Guelph
 
-- 📫 How to reach me: jkomonen@uoguelph.ca
+- 📫 How to reach me: **jkomonen@uoguelph.ca**
 
 - 🏆 Fun fact: I won top male athlete in school
 
