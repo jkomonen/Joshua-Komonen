@@ -23,6 +23,7 @@
   <a href="https://cryptocurrency-portfolio-tracker.onrender.com" target="_blank">Cryptocurrency Portfolio Tracker</a><br>
   <a href="https://social-strangers.web.app" target="_blank">Social Strangers</a><br>
   <a href="https://animal-image-generator.netlify.app" target="_blank">Animal Image Generator</a><br>
-  <a href="https://joshkomonen.ml" target="_blank">Portfolio Website</a><br>
+  <a href="https://joshkomonen.com" target="_blank">Portfolio Website</a><br>
+  <a href="https://mytasktrackerr.netlify.app" target="_blank">To Do List</a><br>
 
 </div>
