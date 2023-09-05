@@ -5,15 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Vexa Web App**
+- 💻 I’m currently a Teaching Assistant for Object Oriented Programming at the University of Guelph
 
-- 🌱 I’m currently learning **DevOps**
+- 📫 How to reach me: jkomonen@uoguelph.ca
 
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+- 🏆 Fun fact: I won top male athlete in school
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
