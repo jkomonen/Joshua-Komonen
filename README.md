@@ -1,11 +1,7 @@
 ## ![](https://komarev.com/ghpvc/?username=joshuakomonen)
 
-<div align="center">
-
   <h1>Hello World, I'm Josh!</h1>
   <img src="https://github.com/jkomonen/Joshua-Komonen/blob/main/hello_world.gif" width="200px" alt="hello world">
-
-</div>
 
 
 
