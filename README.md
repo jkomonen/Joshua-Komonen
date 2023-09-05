@@ -1,3 +1,5 @@
+## ![](https://komarev.com/ghpvc/?username=joshuakomonen)
+
 <div align="center">
 
   <h1>Hello World, I'm Josh!</h1>
@@ -8,14 +10,6 @@
 
 
 <div align="center">
-
-## Contact Me
-
-<a href="https://www.linkedin.com/in/joshuakomonen/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joshua%20Komonen-blue"></a>
-
-</div>
-
-
 
 <div align="center">
 
