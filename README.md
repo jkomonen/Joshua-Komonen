@@ -10,7 +10,7 @@
 
 - 📫 How to reach me: **jkomonen@uoguelph.ca**
 
-- 🏆 Fun fact: I won top male athlete in school
+- 🏆 Fun fact: I won top male athlete of the year in school
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
