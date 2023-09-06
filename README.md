@@ -12,10 +12,6 @@
 
 - 📫 How to reach me: **jkomonen@uoguelph.ca**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joshuakomonen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joshuakomonen" height="30" width="40" /></a>
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
