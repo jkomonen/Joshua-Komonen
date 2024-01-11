@@ -16,8 +16,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-<!--     <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js,html,css,git,github,gitlab,docker,vscode,discord,linkedin" /> -->
-    <img src="https://skillicons.dev/icons?i=angular,babel,bash,bootstrap,c,cpp,cs,html,css,docker,dotnet,figma,firebase,flutter,fortran,gcp,git,gitlab,github,jquery,java,javascript,jenkins,kubernetes,linux,mui,mongodb,mysql,nodejs,perl,postgres,postman,powershell,python,r,rails,react,ruby,sqlite,stackoverflow,swift,terraform,ts,vim,vscode,vue,aws,azure,bootstrap,express,gradle,heroku,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,c,cpp,cs,html,css,docker,dotnet,firebase,flutter,git,github,gcp,java,javascript,kubernetes,linux,mongodb,mysql,nodejs,postgres,postman,python,r,react,terraform,ts,aws,azure" />
+<!--     <img src="https://skillicons.dev/icons?i=angular,babel,bash,bootstrap,c,cpp,cs,html,css,docker,dotnet,figma,firebase,flutter,fortran,gcp,git,gitlab,github,jquery,java,javascript,jenkins,kubernetes,linux,mui,mongodb,mysql,nodejs,perl,postgres,postman,powershell,python,r,rails,react,ruby,sqlite,stackoverflow,swift,terraform,ts,vim,vscode,vue,aws,azure,bootstrap,express,gradle,heroku,tensorflow" /> -->
   </a>
 </p>
 <!-- <p align="left"> 
