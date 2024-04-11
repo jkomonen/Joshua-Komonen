@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> </p>
 
 
-- 💻 I’m currently a Backend Developer at NCR and a Teaching Assistant for the Introduction to Programming class at the University of Guelph
+- 💻 I’m currently a Software Engineering Intern at D2L and a Teaching Assistant at the University of Guelph
 
 - 🏆 Fun fact: I won top male athlete of the year in school
 
