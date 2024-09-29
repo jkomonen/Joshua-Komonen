@@ -6,11 +6,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> </p>
 
 
-- 💻 I’m currently a Software Engineering Intern at NCR and a Teaching Assistant at the University of Guelph
+- 💻 6x SWE Intern and 4x Teaching Assistant
 
 - 🏆 Fun fact: I won top male athlete of the year in school
 
-- 📫 How to reach me: **school email**
+- 📫 How to reach me: **jkomonen@uoguelph.ca**
 
 
 <h3 align="left">Languages and Tools:</h3>
