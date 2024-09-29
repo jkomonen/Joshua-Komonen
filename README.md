@@ -1,6 +1,6 @@
 <h1 align="center">Hello world <img src="img/hi.gif" width="30px" alt="waving emoji">, I'm Josh!</h1>
 <h3 align="center">A software engineering student at the University of Guelph</h3>
-<img align="right" <img src="img/pokemon.gif" alt="Pokemon" style="margin-top: 100px; float: right; width: 450px">
+<img align="right" <img src="img/pokemon.gif" alt="Pokemon" style="float: right; width: 450px">
 
 
 
