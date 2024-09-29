@@ -1,6 +1,6 @@
 <h1 align="center">Hello world <img src="img/hi.gif" width="30px" alt="waving emoji">, I'm Josh!</h1>
 <h3 align="center">A software engineering student at the University of Guelph</h3>
-<img align="right" <img src="img/pokemon.gif" alt="Pokemon" style="margin-top: -45px; float: right; width: 500px">
+<img align="right" <img src="img/pokemon.gif" alt="Pokemon" style="margin-top: -45px; float: right; width: 450px">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> </p>
