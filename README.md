@@ -6,7 +6,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> </p> -->
 <p align="left">
 <picture>
-    <img src="imgs/pokemon.gif" alt="Pokemon" style="margin-top: -45px;">
+    <img src="img/pokemon.gif" alt="Pokemon" style="margin-top: -45px;">
 </picture>
 </p>
 
