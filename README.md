@@ -21,4 +21,4 @@
   </a>
 </p>
 
-<img src="imgs/line.gif" alt="line" style="width: 100%;">
+<img src="img/line.gif" alt="line" style="width: 100%;">
