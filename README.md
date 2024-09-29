@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joshuakomonen&label=Profile%20views&color=0e75b6&style=flat" alt="joshuakomonen" /> </p>
 
 
-- 💻 6x SWE Intern and 4x Teaching Assistant
+- 💻 6x SWE Intern & 4x Teaching Assistant
 
 - 🏆 Fun fact: I won top male athlete of the year in school
 
