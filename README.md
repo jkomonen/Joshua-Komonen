@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **jkomonen@uoguelph.ca**
 
-<!-- <img src="img/line.gif" alt="line" style="width: 100%;"> -->
+<img src="img/line.gif" alt="line" style="width: 100%;">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
