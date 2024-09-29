@@ -8,7 +8,7 @@
 
 
 
-- 💻 6x SWE Intern | 4x Teaching Assistant
+- 💻 6x SWE Intern and 4x Teaching Assistant
 
 - 🏆 Fun fact: I won top male athlete of the year in school
 
