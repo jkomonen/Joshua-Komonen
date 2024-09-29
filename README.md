@@ -20,3 +20,5 @@
     <img src="https://skillicons.dev/icons?i=github,git,docker,aws,azure,gcp,kubernetes,javascript,html,css,react,nodejs,java,dotnet,python,tensorflow,postgres,mongodb,firebase,flutter,angular,ts,bootstrap,terraform,postman,c,cpp,cs,linux,mysql" />
   </a>
 </p>
+
+<img src="imgs/line.gif" alt="line" style="width: 100%;">
